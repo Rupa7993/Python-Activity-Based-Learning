@@ -113,3 +113,4 @@ Total Inventory Value: Rs. 7650
 Most Expensive Product: School Bag
 Highest Price: Rs. 800
 # screenshot
+<img width="1212" height="437" alt="Screenshot 2026-10-30 110150" src="https://github.com/user-attachments/assets/d10baa5e-a446-4d39-a887-ea3c7c084a5a" />
