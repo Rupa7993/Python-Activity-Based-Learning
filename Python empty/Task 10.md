@@ -99,3 +99,4 @@ Waste Percentage: 12.0 %
 Waste Classification: Moderate Waste
 Enter food wasted (kg): 12
 # screenshot
+<img width="1256" height="265" alt="Screenshot 2026-10-30 110407" src="https://github.com/user-attachments/assets/de8028ef-94ad-4065-9d64-e1c0d96c6b13" />
