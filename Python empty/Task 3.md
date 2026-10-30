@@ -166,3 +166,6 @@ Current Balance: Rs. 4000.0
 Enter your choice: 4
 Thank you for using the ATM!
 # screenshot
+<img width="1226" height="781" alt="Screenshot 2026-10-30 104606" src="https://github.com/user-attachments/assets/b9ee7587-7209-49ab-9cf6-642e73a843f8" />
+<img width="476" height="591" alt="Screenshot 2026-10-30 104629" src="https://github.com/user-attachments/assets/cca99e5d-9380-4e42-87d2-f113ab69ce97" />
+
