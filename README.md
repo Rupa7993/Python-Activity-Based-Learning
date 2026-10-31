@@ -10,10 +10,32 @@
 -------
 Projects
 ---
-1.Write a Python program to accept marks in five subjects from a student and check whether the student has passed or failed.
---------
-2.Develop a Python program to calculate a student's attendance percentage and determine how many additional classes the student must attend to reach the minimum required attendance percentage.
------
-3.Develop a Python program to simulate an ATM transaction sequence. The program should allow a user to check their account balance, deposit money, withdraw money, and exit the ATM.
------
-4.
+1.Examination Result and Grace-Mark Validation:
+
+
+
+2.Attendance Recovery Computation:
+
+
+3.ATM Menu-Driven Banking Simulation
+
+
+4.Retail Billing with Multiple Discount Rules
+
+
+5.Student Performance Trend Analysis
+
+
+6.Password Policy Validation Engine
+
+
+7.Advanced Numeric Pattern Generator
+
+
+8.Student Marks Matrix Analysis
+
+
+9.Tuple-Based Product Catalogue Audit
+
+
+10.Food Waste Monitoring System
